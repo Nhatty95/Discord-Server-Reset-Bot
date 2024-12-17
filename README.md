@@ -4,7 +4,7 @@
 
 This bot provides functionality to reset a Discord server by deleting channels and roles. While it can be helpful for legitimate server management, **using this bot to delete server content without explicit consent ("nuking") is a violation of Discord's Terms of Service and may result in your account and the bot's account being terminated.**
 
-**I, the developer of this bot, explicitly state that I am NOT responsible for any consequences arising from the misuse of this bot. Users are solely responsible for complying with Discord's Terms of Service and all applicable laws.**
+**I the developer of this bot, explicitly state that I am NOT responsible for any consequences arising from the misuse of this bot. Users are solely responsible for complying with Discord's Terms of Service and all applicable laws.**
 
 ## License
 
