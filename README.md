@@ -41,10 +41,10 @@ This bot is intended to be a tool for server owners to manage and reset *their o
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Nhatty95/Discord-Server-Reset-Bot.git
     cd Discord-Server-Reset-Bot
     ```
-    (Replace `<repository_url>` with the URL of your repository)
+
 
 2. **Install dependencies:**
     ```bash
